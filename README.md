@@ -1,4 +1,4 @@
-Aiming to become an iOS Developer
+Hi, I'm Krishav Bepari. I am a high school student in Dubai and I love programming in Swift.
 
 <!---
 krishav21/krishav21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
