@@ -55,7 +55,7 @@ Aiming to build **big** things in the future.
 
 **Breakloop**  
 > Interrupts doomscrolling with micro activities at set time intervals.  
-`SwiftUI`
+`SwiftUI` • `UserNotifications`
 
 **Tic Tac Toe**  
 > Clean interface, smart logic, fresh animations.  
