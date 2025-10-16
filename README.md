@@ -1,18 +1,18 @@
-<div align="center">
+<div>
   
 # 👋 print("Hey, I’m Krishav")
 
 🎹 Pianist **•** ⚽ Footballer **•** 💻 iOS Developer **•** 🏎️ Massive Formula 1 Fan  
 Aiming to build **big** things in the future.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=iOS+Development+%7C+Game+Development;Next+up%3A+AI+Tic+Tac+Toe+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00BFFF&center=false&vCenter=false&width=435&lines=iOS+Development+%7C+Game+Development;Next+up%3A+AI+Tic+Tac+Toe+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ### About Me
-- Finished building **[Reaction Time Tester](#)** – an app that tests you reaction time using racing lights.
+- Finishing **[Reaction Time Tester](#)** – an app that tests you reaction time using racing lights.
 - Currently building **[Breakloop](#)** – an app that helps you stop doomscrolling and refocus.  
 - Next up: **a reimagined Tic Tac Toe** with a clean UI and smart logic, with adjustable difficulty.  
 - Basic knowledge of `Python`, `C++` and `Kotlin`, and progressively becoming an expert at `Swift`.
@@ -22,7 +22,7 @@ Aiming to build **big** things in the future.
 
 ### Tech Stack
 
-<div align="center">
+<div>
 
 | Languages | Game Development | Data Bases and Servers | Tools |
 | :-------------: | :--------------: | :-------------: | :-------------: |
@@ -37,7 +37,7 @@ Aiming to build **big** things in the future.
 
 ### GitHub Stats
 
-<div align="center">
+<div>
   
 ![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishav21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff)
   
@@ -49,22 +49,26 @@ Aiming to build **big** things in the future.
 
 ### Projects
 
+**Reaction Time Tester**
+> Tests your reaction time using racing lights.  
+`SwiftUI` • `AVFoundation` (coming soon)
+
 **Breakloop**  
 > Interrupts doomscrolling with micro activities at set time intervals.  
 `SwiftUI`
 
 **Tic Tac Toe**  
 > Clean interface, smart logic, fresh animations.  
-`SwiftUI` • `AI Logic` • `CoreData`
+`SwiftUI`
 
 ---
 
 ### Connect With Me
 
-<div align="center">
+<div>
   
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00bfff?style=for-the-badge&logo=safari)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/krishav21)
+[![Email (iCloud)](https://img.shields.io/badge/iCloud_Mail-00bfff?style=for-the-badge&logo=icloud&logoColor=white)](mailto:krishav.bepari@icloud.com)
+[![Email (Gmail)](https://img.shields.io/badge/Gmail-EB4432?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishav.bepari21@gmail.com)
 
 </div>
