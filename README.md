@@ -2,7 +2,7 @@
   
 # 👋 print("Hey, I’m Krishav")
 
-🎹 Pianist **•** 💻 iOS Developer **•** 🏎️ Massive Formula 1 Fan
+🎹 Pianist **•** 💻 Apple Developer **•** 🏎️ Massive Formula 1 Fan  
 Aiming to build **big** things in the future.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00BFFF&center=false&vCenter=false&width=435&lines=iOS+Development+%7C+Game+Development;Next+up%3A+AI+Tic+Tac+Toe+%F0%9F%8E%AE)](https://git.io/typing-svg)
@@ -12,8 +12,8 @@ Aiming to build **big** things in the future.
 ---
 
 ### About Me
-- Finishing **[Reaction Time Tester](#)** – an app that tests you reaction time using racing lights.
-- Currently building **[Breakloop](#)** – an app that helps you stop doomscrolling and refocus.  
+- Finished **[Reaction Time Tester](#)** – an app that tests you reaction time using racing lights.
+- Built **[Breakloop](#)** – an app that helps you stop doomscrolling and refocus.  
 - Basic knowledge of `Python`, `C++` and `Kotlin`, and progressively becoming an expert at `Swift`.
 
 ---
@@ -26,7 +26,7 @@ Aiming to build **big** things in the future.
 | :-------------: | :--------------: | :-------------: | :-------------: |
 | Swift | SpriteKit | SwiftData | Xcode |
 | Python (Basics) | SceneKit | Vapor | VSCode |
-| Kotlin (Basics) | Metal Shading Language | - | Jet Brains IDE (soon) |
+| Kotlin (Basics) | Metal Shading Language (still learning) | Fluent | Android Studio |
 | C++ (Extreme Basics) | - | SQLite | - |
 
 </div>
