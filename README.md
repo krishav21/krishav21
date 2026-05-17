@@ -2,7 +2,7 @@
   
 # 👋 print("Hey, I’m Krishav")
 
-🎹 Pianist **•** ⚽ Footballer **•** 💻 iOS Developer **•** 🏎️ Massive Formula 1 Fan  
+🎹 Pianist **•** 💻 iOS Developer **•** 🏎️ Massive Formula 1 Fan
 Aiming to build **big** things in the future.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00BFFF&center=false&vCenter=false&width=435&lines=iOS+Development+%7C+Game+Development;Next+up%3A+AI+Tic+Tac+Toe+%F0%9F%8E%AE)](https://git.io/typing-svg)
@@ -14,9 +14,7 @@ Aiming to build **big** things in the future.
 ### About Me
 - Finishing **[Reaction Time Tester](#)** – an app that tests you reaction time using racing lights.
 - Currently building **[Breakloop](#)** – an app that helps you stop doomscrolling and refocus.  
-- Next up: **a reimagined Tic Tac Toe** with a clean UI and smart logic, with adjustable difficulty.  
 - Basic knowledge of `Python`, `C++` and `Kotlin`, and progressively becoming an expert at `Swift`.
-- Note: *I cannot build anything to big because I am currently working on Swift Playgrounds till I get Xcode.*
 
 ---
 
@@ -26,10 +24,10 @@ Aiming to build **big** things in the future.
 
 | Languages | Game Development | Data Bases and Servers | Tools |
 | :-------------: | :--------------: | :-------------: | :-------------: |
-| Swift | SpriteKit | SwiftData | Swift Playgrounds |
-| Python (Basics) | SceneKit | Vapor | Replit |
-| C++ (Basics) | Metal | - | Xcode (soon) |
-| Kotlin (Basics) | - | - | Jet Brains IDE (soon) |
+| Swift | SpriteKit | SwiftData | Xcode |
+| Python (Basics) | SceneKit | Vapor | VSCode |
+| Kotlin (Basics) | Metal Shading Language | - | Jet Brains IDE (soon) |
+| C++ (Extreme Basics) | - | SQLite | - |
 
 </div>
 
@@ -57,13 +55,9 @@ Aiming to build **big** things in the future.
 > Interrupts doomscrolling with micro activities at set time intervals.  
 `SwiftUI` • `UserNotifications`
 
-**Tic Tac Toe**  
-> Clean interface, smart logic, fresh animations.  
-`SwiftUI`
-
 ---
 
-### Connect With Me
+### Contact Me
 
 <div>
   
